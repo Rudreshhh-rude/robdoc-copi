@@ -1,5 +1,6 @@
 streamlit
 sentence-transformers
-chromadb
+chromadb==0.5.3
+protobuf==4.25.3
 huggingface_hub
 numpy
